@@ -1,0 +1,4 @@
+# To install these requirements, run: pip install -r requirements.txt
+
+numpy==1.26.3
+opencv-python==4.9.0.80
